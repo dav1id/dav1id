@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm David Ola, a third-year Computer Software Engineering student at the University of Alberta<br><br>I'm currently building a virtual machine and SQL Compiler in C
+I'm David Ola, a third-year Computer Software Engineering student at the University of Alberta<br><br>
 
 
 ## 🌐 Socials:
