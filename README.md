@@ -1,6 +1,12 @@
 # 💫 About Me:
-I'm currently a Computer Software Engineering student at the University of Alberta,<br>and an Intern at General Dynamics Mission Systems<br><br>I'm currently working on building a network stack in C<br><br>I'm open to any personal collaboration on new and innovative projects
 
+Hi all,
+
+I'm currently in my fourth year of Computer Software Engineering in the University of Alberta,
+
+I'm currently an Integrated Logistics Support Intern at General Dynamics Mission Systems
+
+I've been working on extending my computer networking architecture knowledge in building a network stack in Java, and eventually C. Any help or collaboration would be greatly appreciated 😁
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david1ola) 
@@ -12,10 +18,5 @@ I'm currently a Computer Software Engineering student at the University of Alber
 ![](https://streak-stats.demolab.com/?user=dav1id&theme=solarized-light&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dav1id&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dav1id&theme=solarized-light&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dav1id&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
