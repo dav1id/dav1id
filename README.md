@@ -16,6 +16,6 @@ I'm currently a Computer Software Engineering student at the University of Alber
 ![](https://github-profile-trophy.vercel.app/?username=dav1id&theme=solarized-light&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dav1d&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=dav1id&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
